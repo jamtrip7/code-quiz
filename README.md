@@ -2,7 +2,7 @@
 
 ![Project Image](https://github.com/jamtrip7/code-quiz/blob/main/assets/Screenshot/code-quiz-screenshot.png)
 
-> [Code Quiz](https://jamtrip7.github.io/code-quiz/.)
+> [Code Quiz](https://jamtrip7.github.io/code-quiz/)
 
 ---
 
