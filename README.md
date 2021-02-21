@@ -1,6 +1,6 @@
 #Web API's: Code Quiz
 
-![Project Image]()
+![Project Image](https://github.com/jamtrip7/code-quiz/blob/main/assets/Screenshot/code-quiz-screenshot.png)
 
 > [Code Quiz]()
 
