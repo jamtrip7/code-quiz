@@ -2,7 +2,7 @@
 
 ![Project Image](https://github.com/jamtrip7/code-quiz/blob/main/assets/Screenshot/code-quiz-screenshot.png)
 
-> [Code Quiz](https://jamtrip7.github.io/code-quiz/)
+> [Code Quiz](https://jamtrip7.github.io/code-quiz/index)
 
 ---
 
@@ -21,7 +21,7 @@
 
 ## Description
 
-This is a password generator. I found this to be very difficult. I am having trouble with JavaScript but an using freecodecamp.org and codeacademy.com to streghten my overall HTML, CSS, and JavaScript skills.
+This is a code quiz. I found this to be very difficult. I am having trouble with JavaScript but an using freecodecamp.org and codeacademy.com to streghten my overall HTML, CSS, and JavaScript skills.
 
 #### Technologies Used
 
